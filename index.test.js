@@ -12,8 +12,7 @@ const seedMusician = require("./seedData");
 
 describe('./musicians endpoint', () => {
     // Write your tests here
-    
-    
+    test()
 
 
 
